@@ -1,0 +1,11 @@
+langchain    
+# Framework for building applications that use Large Language Models (LLMs) (like GPT) effectively
+langchain-core
+# The core utilities and foundational classes used by LangChain.
+langchain-community
+# Lets you connect LangChain to external systems for retrieval and data augmentation
+pypdf
+pymupdf
+sentence-transformers  # library for embeddings models
+faiss-cpu # for vector database
+chromadb # for vector database
