@@ -8,4 +8,6 @@ pypdf
 pymupdf
 sentence-transformers  # library for embeddings models
 faiss-cpu # for vector database
-chromadb # for vector database
+chromadb
+langchain-groq  
+python-dotenv        

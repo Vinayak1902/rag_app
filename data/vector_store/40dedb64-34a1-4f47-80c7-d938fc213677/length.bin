@@ -1,7 +1,1 @@
-39
-What does the model learns
-● The skip-gram model tries to shift embeddings so the target embeddings (here for apricot) 
-are closer to (have a higher dot product with) context embeddings for nearby words (here 
-jam) and further from (have a lower dot product with) context embeddings for words that 
-don’t occur nearby (here aardvark).
-Source: https://web.stanford.edu/~jurafsky/slp3/6.pdf15.\n
+invalid type: string "CONSTITUTION OF INDIA\nPart III (Articles 12 – 35)\n(Subject to certain conditions, some exceptions\nand reasonable restrictions)\nguarantees these\nFundamental Rights\nRight to Equality\n• before law and equal protection of laws;\n• irrespective of religion, race, caste, sex or place of birth;\n• of opportunity in public employment;\nost famous\ncause\nstems,\nrchers
